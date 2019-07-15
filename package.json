@@ -1,0 +1,14 @@
+{
+  "name": "jserialize",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "git@github.com:supersandwich2019/jserialize.git",
+  "author": "supersandwich2019 <supersandwich2019@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "protobufjs": "^6.8.8"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.2"
+  }
+}
